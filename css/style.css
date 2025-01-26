@@ -1,0 +1,113 @@
+.bg-fav{
+	background-color: aliceblue;
+}
+.bg-faf{
+	background-color: dimgrey;
+}
+.font-fav{
+	font-family: 'Baloo Tammudu 2', cursive;
+}
+.font-google{
+	font-family: 'Roboto', sans-serif;
+}
+.font-space{
+	font-family: 'Orbitron', sans-serif;
+}
+.audiowide-regular {
+  font-family: "Audiowide", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.titillium-web-extralight {
+  font-family: "Titillium Web", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.titillium-web-light {
+  font-family: "Titillium Web", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.titillium-web-regular {
+  font-family: "Titillium Web", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titillium-web-semibold {
+  font-family: "Titillium Web", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.titillium-web-bold {
+  font-family: "Titillium Web", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.titillium-web-black {
+  font-family: "Titillium Web", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.titillium-web-extralight-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.titillium-web-light-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.titillium-web-regular-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.titillium-web-semibold-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.titillium-web-bold-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+#logo_img{
+	width:25%;
+	border-radius: 90%;
+}
+#textbox{
+	width:40%;
+	height: 150px;
+}
+#start-btn{
+	width: 40%;
+}
+#camera{
+	height: 250px;
+	width: 350px;
+	border: 2px dashed indianred;
+  background-color: aliceblue;
+}
+.toptext{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
