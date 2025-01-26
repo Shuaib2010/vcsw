@@ -102,8 +102,8 @@
 	width: 40%;
 }
 #camera{
-	height: 250px;
-	width: 350px;
+	height: 350px;
+	width: 500px;
 	border: 2px dashed indianred;
   background-color: aliceblue;
 }

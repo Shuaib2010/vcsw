@@ -3,8 +3,8 @@ var recognition= new speechrecognition();
 var Textbox=document.getElementById('textbox');
 var camera=document.getElementById("camera");
 Webcam.set({
-	width: 350,
-	height:300,
+	width: 500,
+	height:350,
 	image_format: 'jpeg',
 	jpeg_quality: 90
 })
